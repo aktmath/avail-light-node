@@ -1,10 +1,10 @@
 # avail-light-node
 
 Min Req : 
-CPU 	2+ vcpu
-RAM 	4+ GB
-Storage 	40+ GB SSD
-UBUNTU 	22
+CPU 	2+ vcpu  |
+RAM 	4+ GB   |
+Storage 	40+ GB SSD   |
+UBUNTU 	22    |
 
 # Update
 
